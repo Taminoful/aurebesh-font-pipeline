@@ -78,12 +78,54 @@ Converted WOFF2 files and family bundles are written to `dist/`.
 
 ```css
 @font-face {
-  font-family: 'YourFont';
-  src: url('YourFont.woff2') format('woff2');
+  font-family: 'AB Equinox';
+  src: url('AB-Equinox.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
 }
+
+h1, h2 {
+  font-family: 'AB Equinox', sans-serif;
+}
 ```
+
+For fonts with multiple weights, declare a separate `@font-face` block per variant:
+
+```css
+@font-face {
+  font-family: 'Aurebesh Cantina';
+  src: url('Aurebesh Cantina.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Aurebesh Cantina';
+  src: url('Aurebesh Cantina Bold.woff2') format('woff2');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Aurebesh Cantina';
+  src: url('Aurebesh Cantina Italic.woff2') format('woff2');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Aurebesh Cantina';
+  src: url('Aurebesh Cantina Bold Italic.woff2') format('woff2');
+  font-weight: bold;
+  font-style: italic;
+}
+
+p {
+  font-family: 'Aurebesh Cantina', sans-serif;
+}
+```
+
+**A note on font weights:** Most fonts in this collection are single-weight. A few have non-standard `usWeightClass` values in their metadata: Lapti Nek AF and SG Aurebesh are marked `900` (Black), Aurebesh Pixel Sagas 2000 is marked `500` (Medium), and the four AurebeshAF variants are marked `700` despite being stylistic variants rather than true weight variants. For all single-weight fonts, declare `font-weight: normal` in your `@font-face` block regardless of what the embedded metadata says. The OS/2 weight value does not affect how the browser renders the font.
 
 ## Releasing a new version
 
