@@ -1,13 +1,12 @@
-# License
-
-## Pipeline code
+PIPELINE CODE
+=============
 
 The conversion script and workflow configuration in this repository are released
 under the MIT License.
 
 MIT License
 
-Copyright (c) 2026 Commish
+Copyright (c) 2026 Taminoful
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -27,27 +26,247 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
----
 
-## Fonts
+FONTS
+=====
 
 The fonts included in this repository are the work of their respective authors.
 All are free for personal and commercial use. Original sources and license terms
 are listed below.
 
-### AB Equinox
-- Author: Fragger MT
-- Source: https://aurekfonts.github.io/?font=ABEquinox
-- License: "AB Equinox is forever free of charge. It may be used in any
-  commercial or personal project. It may be modified and redistributed.
-  There are no rules. Have fun!"
+AB Equinox
+  Author:  Fragger MT
+  Source:  https://aurekfonts.github.io/?font=ABEquinox
+  License: AB Equinox is forever free of charge. It may be used in any
+           commercial or personal project. It may be modified and redistributed.
+           There are no rules. Have fun!
 
-### Aurebesh AF
-- Author: AurekFonts
-- Source: https://aurekfonts.github.io/?font=AurebeshAF
-- License: Free for all personal and commercial uses.
+Aurebesh (Pixel Sagas)
+  Author:  Neale Davidson
+  Source:  https://aurekfonts.github.io/?font=AurebeshPixelSagas
+  License: Free for all personal and commercial use.
 
-### Aurebesh Red
-- Author: AurekFonts
-- Source: https://aurekfonts.github.io/?font=AurebeshRed
-- License: Free for everyone, forever.
+Aurebesh (Pixel Sagas 2000)
+  Author:  Neale Davidson
+  Source:  https://aurekfonts.github.io/?font=AurebeshPixelSagas2000
+  License: Free for all personal and commercial uses.
+
+Aurebesh AF
+  Author:  AurekFonts
+  Source:  https://aurekfonts.github.io/?font=AurebeshAF
+  License: Free for all personal and commercial uses.
+
+Aurebesh Bloops AF
+  Author:  AurekFonts
+  Source:  https://aurekfonts.github.io/?font=AurebeshBloopsAF
+  License: Free for all personal and commercial uses.
+
+Aurebesh Cantina
+  Author:  Neale Davidson
+  Source:  https://aurekfonts.github.io/?font=AurebeshCantina
+  License: Free for all personal and commercial use.
+
+Aurebesh Droid
+  Author:  Unknown
+  Source:  https://aurekfonts.github.io/?font=AurebeshDroid
+  License: Free for all personal and commercial use.
+
+Aurebesh English
+  Author:  Unknown
+  Source:  https://aurekfonts.github.io/?font=AurebeshEnglish
+  License: Free for all personal and commercial use.
+
+Aurebesh LU
+  Author:  Lucy Universe
+  Source:  https://aurekfonts.github.io/?font=AurebeshLU
+  License: Free for all personal and commercial uses.
+
+Aurabesh (AURABESH)
+  Author:  Unknown
+  Source:  https://aurekfonts.github.io/?font=Aurabesh
+  License: Free for all personal and commercial uses.
+
+Auraboo
+  Author:  Nick Tierce
+  Source:  https://aurekfonts.github.io/?font=Auraboo
+  License: Free for all personal and commercial uses.
+
+Aurek-Besh
+  Author:  Unknown
+  Source:  https://aurekfonts.github.io/?font=AurekBesh
+  License: Free for all personal and commercial uses.
+
+Aurek-Besh Hand
+  Author:  Unknown
+  Source:  https://aurekfonts.github.io/?font=AurekBeshHand
+  License: Free for all personal and commercial uses.
+
+Droidobesh Depot
+  Author:  Vamplify, AurekFonts
+  Source:  https://aurekfonts.github.io/?font=DroidobeshDepot
+  License: Free for all personal and commercial use.
+
+Goongan AF
+  Author:  Ender Smith
+  Source:  https://aurekfonts.github.io/?font=GoonganAFAlpha
+  License: Free for personal and commercial uses.
+
+Imperial Broadcast 87
+  Author:  AurekFonts
+  Source:  https://aurekfonts.github.io/?font=ImperialBroadcast87
+  License: Free for all personal and commercial uses.
+
+Ithorian AF
+  Author:  Unknown
+  Source:  https://aurekfonts.github.io/?font=IthorianAF
+  License: Free for all personal and commercial uses.
+
+Kitisakkullian
+  Author:  Unknown
+  Source:  https://aurekfonts.github.io/?font=Kitisakkullian
+  License: Free for all personal and commercial uses.
+
+Kyber Crystal Display
+  Author:  Unknown
+  Source:  https://aurekfonts.github.io/?font=KCDAurebesh
+  License: Free for all personal and commercial uses.
+
+Lapti Nek AF
+  Author:  Unknown
+  Source:  https://aurekfonts.github.io/?font=LaptiNekAF
+  License: Free for all personal and commercial uses.
+
+Life Day AF
+  Author:  AurekFonts
+  Source:  https://aurekfonts.github.io/?font=LifeDayAF
+  License: Free for all personal and commercial uses.
+
+Mando AF
+  Author:  AurekFonts, Drew (Galactic Surplus)
+  Source:  https://aurekfonts.github.io/?font=MandoAF
+  License: Free for all personal and commercial uses.
+
+Mando AlbansBane
+  Author:  Unknown
+  Source:  https://aurekfonts.github.io/?font=AlbansBane
+  License: Free for all personal and commercial uses.
+
+Maulobesh
+  Author:  Unknown
+  Source:  https://aurekfonts.github.io/?font=Maulobesh
+  License: Free for all personal and commercial uses.
+
+MB 450
+  Author:  AurekFonts
+  Source:  https://aurekfonts.github.io/?font=MB450
+  License: Free for all personal and commercial uses.
+
+Naboo AF Aurebesh
+  Author:  Ender Smith
+  Source:  https://aurekfonts.github.io/?font=NabooAFAurebesh
+  License: Free for all personal and commercial uses.
+
+New Aurabesh
+  Author:  Unknown
+  Source:  https://aurekfonts.github.io/?font=NewAurabesh
+  License: Free for all personal and commercial uses.
+
+Nirvanabesh
+  Author:  Vamplify, AurekFonts
+  Source:  https://aurekfonts.github.io/?font=Nirvanabesh
+  License: Free for all personal and commercial uses.
+
+Old Tongue
+  Author:  wejem
+  Source:  https://aurekfonts.github.io/?font=OldTongue
+  License: Free for all personal and commercial uses.
+
+Old Tongue Yavin
+  Author:  Unknown
+  Source:  https://aurekfonts.github.io/?font=OldTongueYavin
+  License: Free for all personal and commercial uses.
+
+Outer Rim AF
+  Author:  Unknown
+  Source:  https://aurekfonts.github.io/?font=OuterRimAF
+  License: Free for all personal and commercial uses.
+
+Prime Jedi
+  Author:  Meagan Bethel
+  Source:  https://aurekfonts.github.io/?font=PrimeJedi
+  License: Free for all personal and commercial uses.
+
+Protobesh
+  Author:  Unknown
+  Source:  https://aurekfonts.github.io/?font=Protobesh
+  License: Free for all personal and commercial uses.
+
+Protobesh AF
+  Author:  AurekFonts
+  Source:  https://aurekfonts.github.io/?font=ProtobeshAF
+  License: Free for all personal and commercial uses.
+
+Remember Kamino
+  Author:  Unknown
+  Source:  https://aurekfonts.github.io/?font=RememberKamino
+  License: Free for all personal and commercial uses.
+
+S-Foil
+  Author:  Ender Smith, AurekFonts
+  Source:  https://aurekfonts.github.io/?font=SFoil
+  License: Free for all personal and commercial uses.
+
+SG Aurebesh
+  Author:  Star Wars Fonts
+  Source:  https://aurekfonts.github.io/?font=SGAurebesh
+  License: Free for all personal and commercial uses.
+
+Sith AF
+  Author:  Unknown
+  Source:  https://aurekfonts.github.io/?font=SithAF
+  License: Free for all personal and commercial uses.
+
+SkyLuke
+  Author:  Unknown
+  Source:  https://aurekfonts.github.io/?font=SkyLuke
+  License: Free for all personal and commercial uses.
+
+Skyhook
+  Author:  Star Wars Fonts
+  Source:  https://aurekfonts.github.io/?font=Skyhook
+  License: Free for all personal and commercial uses.
+
+TF Gunray
+  Author:  Ender Smith
+  Source:  https://aurekfonts.github.io/?font=TFGunray
+  License: Free for all personal and commercial uses.
+
+Ubese Boushh
+  Author:  Ender Smith
+  Source:  https://aurekfonts.github.io/?font=UbeseBoushh
+  License: Free for all personal and commercial uses.
+
+Umbara AF
+  Author:  Ender Smith
+  Source:  https://aurekfonts.github.io/?font=UmbaraAF
+  License: CCBY 4.0. Free for all personal and commercial uses.
+
+Umbaran ST
+  Author:  Unknown
+  Source:  https://aurekfonts.github.io/?font=UmbaranST
+  License: Free for all personal and commercial uses.
+
+Ur-Kittat
+  Author:  Luke Daley
+  Source:  https://aurekfonts.github.io/?font=UrKittat
+  License: CC BY-ND. Free for commercial use. No derivatives.
+
+Ur-Kittat LU
+  Author:  Lucy Universe
+  Source:  https://aurekfonts.github.io/?font=UrKittatLU
+  License: Free for all personal and commercial uses.
+
+Veers Numeric
+  Author:  Unknown
+  Source:  https://aurekfonts.github.io/?font=Veers
+  License: Free for all personal and commercial uses.
